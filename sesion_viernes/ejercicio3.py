@@ -14,3 +14,5 @@ elif dia==6:
     print("Sábado")
 elif dia==7:
     print("Domingo")
+else:
+    print("No es una fecha válida")
